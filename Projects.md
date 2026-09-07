@@ -8,7 +8,8 @@ These projects are considered property of First to the Finish Inc., so I am not 
 
 
 ### 1. [Team Artwork Generator](https://firsttothefinish.com/pages/art-generator "Art Generator")
-This project was coded using the following languages: JavaScript, Shopify Liquid, CSS5, and HTML5. It was designed completely web-based, so no external system would need to be running to reduce cost on the company due to limitations in budget.
+This project was coded using the following languages: JavaScript, Shopify Liquid, CSS5, and HTML5. It was designed completely web-based, so no external system would need to be running to reduce cost on the company due to limitations in budget. 
+
 #### Project Overview and Goals
 - Produce customized art designs for each customer based on a few of their personal details (Name, Mascot, Team Abbreviation, Logo, and Colors).
 - Reduce the workload on the Graphics Department to ensure more efficient timeframes.
@@ -22,3 +23,24 @@ This project was coded using the following languages: JavaScript, Shopify Liquid
 - User generates art using the Generate Art button.
 - Wait for the designs to load.
 - Each design is download ready and has options to see how each color would look on each color garment.
+
+#### Project Cost
+- Cost per use: $0.00
+- External Cost: $0.00
+- Hosting Cost: $0.00 (Built into cost of a hosted Shopify site)
+
+
+### 1. [Team Tent Designer](https://firsttothefinish.com/pages/tent-builder "Tent Builder")
+This project was coded using the following languages: JavaScript, Shopify Liquid, CSS5, and HTML5. External APIs are made for emailing, pdf storage, and order readiness. 
+
+#### Project Overview and Goals
+- 
+
+#### How It Works
+- 
+
+#### Project Cost
+- Cost per use: $0.00001
+- PDF Storage Cost: $0.00001 per file stored
+- Email Cost: $0.00 up to 10000 emails a month free, $0.0002 per GB data used after
+- Hosting Cost: $0.00 (Built into cost of a hosted Shopify site)
